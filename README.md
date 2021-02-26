@@ -1,4 +1,4 @@
-# 2020CCE.once.github.io
+# 2020CCE.ONCE
 # 大一上程式語言
 
 ## 第一周正課題目
