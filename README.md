@@ -3,6 +3,7 @@
 
 第一周正課題目
 Hello World : 本題目希望你試著印出 Hello World 並請注意 (1) 字母大小寫, (2) 句子後面的跳行
+#c
 #include <stdio.h>
 int main()
 {
@@ -13,7 +14,7 @@ printf("Hello World\n");
 
 第一周實習課題目
 [printf] 輸出* : 以＊輸出三角形
-
+#c
 #include<stdio.h>
 int main()
 #include<stdio.h>
