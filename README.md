@@ -11,7 +11,6 @@ int main()
 printf("Hello World\n");
 
 }
-return 0;
 
 第一周實習課題目
 [printf] 輸出* : 以＊輸出三角形
