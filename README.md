@@ -556,7 +556,7 @@ int main()
 	{
 		for(int j=n;j<=m;j++)
 		{
-			printf("%2dx%2d=%2d  ",i,j,i*j);                                                                                                  
+			printf("%2dx%2d=%2d  ",i,j,i*j);
 		}
 		printf("\n");
 	}
