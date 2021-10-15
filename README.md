@@ -251,14 +251,14 @@ int main( void )
     if(t==0)
     {
     printf("Enter Celsius: ");
-    scanf("%d\n",&c);
+    scanf("%d",&c);
     printf("Fahrenheit: %d\n",f=9*c/5+32);
     }
    
    else
     {
     printf("Enter Fahrenheit : ");
-    scanf("%d\n",&f);
+    scanf("%d",&f);
     printf(" Celsius : %d\n",(f-32)*5/9);
     }
 
